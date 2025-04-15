@@ -18,13 +18,14 @@
 ---
 
 ## 📂 디렉토리 구조
+```plaintext
 📁 large-export-optimizer/
 ┣ 📜 openpyxl_export.py
 ┣ 📜 xlsxwriter_export.py
 ┣ 📜 csv_export.py
 ┣ 📜 README.en.md
 ┗ 📜 README.ko.md
-
+```
 ---
 
 ## 📄 파일 설명
