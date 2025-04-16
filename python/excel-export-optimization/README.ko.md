@@ -52,6 +52,12 @@
 | xlsxwriter   | 약 2분     | .xlsx | 추천         |
 | csv          | 약 1분     | .csv  | 가장 빠름    |
 
+![openpyxl](/img/python/excel-export-optimization/01.png)
+
+![xlsxwriter](/img/python/excel-export-optimization/02.png)
+
+![csv](/img/python/excel-export-optimization/03.png)
+
 > 💡 Django에서 제너레이터 기반으로 테스트한 결과입니다.
 
 ---

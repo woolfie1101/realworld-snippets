@@ -54,6 +54,12 @@ Exporting large datasets efficiently from web applications can be challenging â€
 | xlsxwriter    | ~2 min     | .xlsx  | Recommended   |
 | csv           | ~1 min     | .csv   | Fastest       |
 
+![openpyxl](/img/python/excel-export-optimization/01.png)
+
+![xlsxwriter](/img/python/excel-export-optimization/02.png)
+
+![csv](/img/python/excel-export-optimization/03.png)
+
 > ğŸ’¡ Results based on local Django test with generator-based data
 
 ---
